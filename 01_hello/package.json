@@ -1,0 +1,22 @@
+{
+  "name": "web_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bass1113/web_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bass1113/web_api/issues"
+  },
+  "homepage": "https://github.com/bass1113/web_api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
